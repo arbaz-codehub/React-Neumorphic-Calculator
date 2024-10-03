@@ -1,0 +1,36 @@
+.button {
+  width: 70px;
+  height: 70px;
+  font-size: 1.5em;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  background-color: #e0e5ec;
+  color: #333;
+  box-shadow: 5px 5px 10px #bec3c9, -5px -5px 10px #ffffff;
+  transition: all 0.2s ease;
+}
+
+.button:hover {
+  box-shadow: 2px 2px 5px #bec3c9, -2px -2px 5px #ffffff;
+}
+
+.button:active {
+  box-shadow: inset 2px 2px 5px #bec3c9, inset -2px -2px 5px #ffffff;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(0.95);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.pulse {
+  animation: pulse 0.2s;
+}
