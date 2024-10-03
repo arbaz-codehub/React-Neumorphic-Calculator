@@ -35,12 +35,15 @@ This Neumorphic Calculator is a React-based project designed with a sleek and mo
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/neumorphic-calculator.git
+   ```
 2. Navigate to the project directory:
    ```bash
    cd neumorphic-calculator
+   ```
 3. Install dependencies:
    ```bash
    npm install
+   ```
 4. Start the React app:
   ```bash
   npm run dev
