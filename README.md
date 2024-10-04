@@ -7,7 +7,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-# Neumorphic Calculator
+# React Neumorphic Calculator
 
 ## Overview
 This Neumorphic Calculator is a React-based project designed with a sleek and modern neumorphic UI. The calculator comes with animated buttons and full keyboard support, allowing users to input numbers and operations using both the buttons and their keyboard. The project makes use of core React concepts like `props`, `useState`, and `useEffect` to manage the calculator's functionality.
