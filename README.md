@@ -9,6 +9,8 @@ Currently, two official plugins are available:
 
 # React Neumorphic Calculator
 
+![Modern Neumorphic Calculator](r1.png)
+
 ## Overview
 This Neumorphic Calculator is a React-based project designed with a sleek and modern neumorphic UI. The calculator comes with animated buttons and full keyboard support, allowing users to input numbers and operations using both the buttons and their keyboard. The project makes use of core React concepts like `props`, `useState`, and `useEffect` to manage the calculator's functionality.
 
